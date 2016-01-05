@@ -1,7 +1,7 @@
 Role Name
 ========
 
-Nginx installation to the Ubuntu server.
+Nginx
 
 Example Playbook
 -------------------------
