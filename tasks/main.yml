@@ -1,0 +1,10 @@
+---
+# tasks file for nginx
+- name: update apt-packages
+    apt: "upgrade=dist update_cache=yes"
+
+- name: Install required apt-packages
+    apt: "name='nginx' state=present force=yes"
+
+- name: start nginx
+    service: "name=nginx state=started"
