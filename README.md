@@ -17,8 +17,3 @@ License
 -------
 
 MIT
-
-Author Information
-------------------
-
-Dinesh(dinesh@micropyramid.com)
