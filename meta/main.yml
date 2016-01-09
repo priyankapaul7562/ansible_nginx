@@ -13,5 +13,6 @@ galaxy_info:
   
   categories:
   - web
+  - nginx
 
 dependencies: []
